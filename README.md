@@ -1083,9 +1083,3 @@ background-image 속성으로는
 <div align="center">
 <img src = "https://user-images.githubusercontent.com/48902047/152811090-e90bead7-87a1-4ad6-adae-139434ccc546.png">
 </div>
-
-
-
-
-
-
