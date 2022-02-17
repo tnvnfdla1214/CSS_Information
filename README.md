@@ -289,6 +289,10 @@
 <img src = "https://user-images.githubusercontent.com/48902047/152744483-f2ab6381-c7ba-4ad1-989a-ee3b2b487778.png">
 </div>
 
+<div align="center">
+<img src = "https://user-images.githubusercontent.com/48902047/154458468-3e5b17f0-4c4a-4ace-9bb2-d95fdc79149b.png">
+</div>
+
 1. ~ 의 경우 동등한 위치에서 아래의 모든 것을 선택해줍니다. 예를 들어 h3~div 경우 h3 아래의 div는 모두 선택하여 적용시켜줍니다.
 2. + 의 경우 동등한 위치에서 아래의 첫번째의 것을 선택해 줍니다. 예를 들어 h3+div 경우 h3 아래의 첫번째 div를 선택하여 적용시켜줍니다.
 
